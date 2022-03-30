@@ -1,7 +1,5 @@
-Kmanasish Debnath
-Chalmers University of Technology
+Kamanasish Debnath
 kamanasish.debnath@gmail.com
-Feb 2022
 
 SUPERVISED MACHINE LEARNING
 
